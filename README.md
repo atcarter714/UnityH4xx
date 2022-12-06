@@ -27,7 +27,9 @@ meant no Span from your list.
 **Span\<T\>** also allows us to obtain a pointer to the underlying array of a **List\<T\>** when compiling with the
 `/unsafe` switch. This gives us the all-around fastest way one can iterate a List of value types in .NET/Mono!
 This means that suddenly a big List of values such as transformation data or vertex positions is suddenly much
-cheaper to use ...
+cheaper to use ...<br>
+
+You can [get the library](https://github.com/atcarter714/UnityH4xx/releases/) here use it in Unity, and it's super easy.
 <br><br>
 
 ## ***How much faster is it?***
