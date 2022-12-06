@@ -12,7 +12,7 @@ make me decide to put it up here and make it available.
 
 
 <br>
-<img src="../UnityH4xx/files/flameBanner_01a.png" width=256> 
+<img src="https://github.com/atcarter714/UnityH4xx/blob/main/files/flameBanner_01a.png" width=256> 
 
 ## [CollectionMarshal.AsSpan<T>](https://learn.microsoft.com/en-us/dotnet/api/system.runtime.interopservices.collectionsmarshal.asspan?view=net-7.0) for Unity (and [older .NET versions](https://learn.microsoft.com/en-us/previous-versions/dotnet/)):
 
@@ -32,8 +32,8 @@ cheaper to use ...
 
 ## ***How much faster is it?***
 <div>
-<img src="../UnityH4xx/files/benchmark%20results/benchmark_chart01a_1024.png" width=417>
-<img src="../UnityH4xx/files/benchmark%20results/benchmark_chart01b_1024.png" width=417>
+<img src="https://github.com/atcarter714/UnityH4xx/blob/main/files/benchmark_chart01a_1024.png" width=417>
+<img src="https://github.com/atcarter714/UnityH4xx/blob/main/files/benchmark_chart01b_1024.png" width=417>
 </div>
 
 <br><br>
