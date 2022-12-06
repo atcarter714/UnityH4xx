@@ -32,13 +32,13 @@ cheaper to use ...
 
 ## ***How much faster is it?***
 <div>
-<img src="https://github.com/atcarter714/UnityH4xx/blob/main/files/benchmark_chart01a_1024.png" width=417>
-<img src="https://github.com/atcarter714/UnityH4xx/blob/main/files/benchmark_chart01b_1024.png" width=417>
+<img src="https://github.com/atcarter714/UnityH4xx/blob/main/files/benchmark results/benchmark_chart01a_1024.png" width=417>
+<img src="https://github.com/atcarter714/UnityH4xx/blob/main/files/benchmark results/benchmark_chart01b_1024.png" width=417>
 </div>
 
 <br><br>
 --------------------------------------------------------------------------------------------------------------
-### [Benchmark.NET Log File Info:](../UnityH4xx/files/benchmark%20results/ListIterationTests-20221130-222926.log)
+### [Benchmark.NET Log File Info:](http://github.com/atcarter714/UnityH4xx/blob/main/files/benchmark results/ListIterationTests-20221130-222926.log)
 
 
 
