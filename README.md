@@ -5,11 +5,17 @@
 ##### ([Download here](https://github.com/atcarter714/UnityH4xx/releases/) - Latest Release Build)
 
 ## A project to share ways of bending the rules and maximizing performance ...
---------------------------------------------------------------------------------------------------------------
+Projected sponsored & supported by the following contributors:</br>
+### Arkaen Solutions
+<a href="https://github.com/arkaen-solutions">
+<img src="files/arkaen_128.png" width="64" height="64" />
+</a></br>
+
+---
+
 This all began as an "academic" sort of project, and it actually worked well enough (and intrigued enough people) to
 make me decide to put it up here and make it available.
 <br>
-
 
 
 <br>
